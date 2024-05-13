@@ -235,7 +235,7 @@ header p {
 .cardcontainer {
     display: flex;
     flex-direction: column;
-    gap: 0.5rem;
+    gap: 0.5em;
     border: 1px solid rgb(112, 106, 106);
     overflow: none;
     position: relative;
